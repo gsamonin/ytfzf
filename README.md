@@ -1,3 +1,4 @@
+#Autor is George Samonin
 <p align="center">
     <a> <img src=.assets/logo.png></a>
     <br />
